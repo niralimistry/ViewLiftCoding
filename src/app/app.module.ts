@@ -5,7 +5,6 @@ import {AppService} from './app.service';
 import { AppComponent } from './app.component';
 import { TileComponentComponent } from './tile-component/tile-component.component';
 
-
 @NgModule({
   declarations: [
     AppComponent,

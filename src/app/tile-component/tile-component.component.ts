@@ -11,7 +11,4 @@ export class TileComponentComponent {
 
   @Input() data: Ifilm;
   constructor() { }
-
-
-
 }
